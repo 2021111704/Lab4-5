@@ -14,7 +14,7 @@ package org.example;/*
  * 输出：[0,1,2]
  */
 
-class Solution {
+public class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
         int ptr = 0;
